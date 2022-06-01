@@ -8,6 +8,14 @@
     HYBRID DEPLOYMENT
 
 
+#
+CLOUD-BASED 
+    -   RUN all parts of your application to the Cloud
+    -   MIGRATE existing application to the Cloud 
+    -   DESIGN and BUILD new applications from scratch in the Cloud.
+
+ON-PREMISE
+    -   l
 
 
 
