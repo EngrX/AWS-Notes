@@ -24,7 +24,12 @@ HYBRID DEPLOYMENT MODEL
     1.  Connect CLOUD-BASED (PUBLIC) to ON-PREMISES (PRIVATE) Infrastructure.
     2.  Integrate CLOUD-BASED resources with legacy IT Applications.
 
-    
+SUMMARY:
+1. THREE DEPLOYMENT MODELS: PUBLIC, PRIVATE & CLOUD
+2. PUBLIC  CLOUD MODEL - LET'S YOU RUN, MIGRATE, BUILD AND DESIGN NEW APPS IN THE CLOUD
+3. PRIVATE CLOUD MODEL - LET'S YOU DEPLOY/RUN RESOURCES by using virtualization and management tools ON-PREMISES Infrastructure
+4. HYBRID MODEL - COMBINATION of PUBLIC and PRIVATE, connecting CLOUD-BASED resources to on-premises infrastructure
+
 
 
 
