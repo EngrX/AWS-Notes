@@ -3,23 +3,28 @@
 
 
 ### THREE (3) DEPLOYMENT MODELS
-    CLOUD-BASED (PUBLIC)
-    ON-PREMISE (PRIVATE)
-    HYBRID DEPLOYMENT
+    CLOUD-BASED (PUBLIC CLOUD)
+    ON-PREMISES (PRIVATE CLOUD)
+    HYBRID CLOUD DEPLOYMENT
 
 
 #
-CLOUD-BASED 
-    -   RUN all parts of your application to the Cloud
-    -   MIGRATE existing application to the Cloud 
-    -   DESIGN and BUILD new applications from scratch in the Cloud.
+CLOUD-BASED DEPLOYMENT MODEL
+    1.  RUN all parts of your application to the Cloud
+    2.  MIGRATE existing application to the Cloud 
+    3.  DESIGN and BUILD new applications from scratch in the Cloud.
 
-ON-PREMISE
-    -   l
+ON-PREMISES DEPLOYMENT MODEL
+    >   Resources are deployed on-premises using virtualization and management tools 
+    1.  DEPLOY RESOURCES by using virtualization and resource management tools
+    2.  INCREASE resource UTILIZATION by using application management and virtualization technologies
 
+HYBRID DEPLOYMENT MODEL
+    >   Cloud-Based resources are connected to on-premises infrastructure.
+    1.  Connect CLOUD-BASED (PUBLIC) to ON-PREMISES (PRIVATE) Infrastructure.
+    2.  Integrate CLOUD-BASED resources with legacy IT Applications.
 
-
-
+    
 
 
 
